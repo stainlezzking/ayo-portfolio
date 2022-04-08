@@ -1316,7 +1316,7 @@ h1.reduce{
   width: 100%;
 }
 li.nav-link-header a, li.nav-link-header a:hover{
-  font-weight: bolder;
+  font-weight: bold;
   text-decoration: none;
 }
 /* dont show all nev-links in the expanded nav */
