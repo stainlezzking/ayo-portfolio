@@ -1338,3 +1338,6 @@ li.nav-link-header a, li.nav-link-header a:hover{
 ul.list-ico li a svg{
   width: 20px;
 }
+.bold{
+  font-weight: 900;
+}
